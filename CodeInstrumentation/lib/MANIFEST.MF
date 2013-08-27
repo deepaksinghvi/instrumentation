@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Premain-Class: com.deepak.instrumentation.InstrumentationAgent
+Can-Redefine-Classes: false
+
